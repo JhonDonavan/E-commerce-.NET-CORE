@@ -1,0 +1,8 @@
+﻿.ajuste-input {
+    min-width: 100%;
+}
+
+.field-validation-error {
+    color: red;
+    display: block;
+}
